@@ -22,4 +22,5 @@ Aquí trataremos los siguientes apartados:
 [OpenWebinars Sistemas](https://openwebinars.net/cursos/sistemas/)
 ## Página Web
 [Iniciación a la PowerShell](https://mftienda.github.io/PowerShellPrincipiantes)
+## Mi Blog
 [Blog](https://madoti.wordpress.com/)
