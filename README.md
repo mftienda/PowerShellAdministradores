@@ -12,13 +12,14 @@ Aquí trataremos los siguientes apartados:
 8. Eventos.
 9. WMI/CIM
 
-## Píldoras
-1. Píldora 1: Comandos PowerShell para administradores
-2. Píldora 2: Alias en PowerShell 
-3. Píldora 3: Depurar scripts con Windows PowerShell ISE
-4. Píldora 4: Instalar Windows Termina l- Tiempo Estimado (5 minutos)
+## Vídeos:
+1. Comandos PowerShell para administradores
+2. Alias en PowerShell 
+3. Depurar scripts con Windows PowerShell ISE
+4. Instalar Windows Terminal
 
 ## Referencias
 [OpenWebinars Sistemas](https://openwebinars.net/cursos/sistemas/)
 ## Página Web
 [Iniciación a la PowerShell](https://mftienda.github.io/PowerShellPrincipiantes)
+[Blog](https://madoti.wordpress.com/)
